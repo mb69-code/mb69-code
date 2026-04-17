@@ -20,10 +20,9 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 
 | Project | Topics | Stack |
 |---|---|---|
-| [Portfolio Optimization](https://github.com/martinbelot/quant-portfolio-optimization) | MPT, Efficient Frontier, Sharpe | Python, NumPy, SciPy |
 | [Rates Models & Swaption Pricing](https://github.com/mb69-code/rates-models) | Hull-White, Black's model, Greeks | Python, QuantLib |
 | [Options Pricing](https://github.com/martinbelot/quant-options-pricing) | Black-Scholes, Vol surface | Python |
-| [ML in Finance](https://github.com/martinbelot/quant-ml-finance) | Regime detection, factor models | Scikit-learn |
+| [ML in Finance : Portfolio Optimization](https://github.com/mb69-code/machine-learning-portfolio)) | Regime detection, clustering, Sharpe | Scikit-learn |
 
 ---
 
