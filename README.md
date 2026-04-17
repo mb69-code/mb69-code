@@ -2,7 +2,7 @@
 # Hi, I'm Martin Belot !
 
 **Quantitative Finance & Financial Engineering student** at École Centrale de Marseille  
-Looking for a 6-month end-of-studies internship in **trading, structuring, or quant research** (from April 2026)
+Looking for a 6-month end-of-studies internship in **trading, structuring, or quant research** (from May 2026)
 
 ---
 
@@ -46,6 +46,6 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Belot-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/martinbelot)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Martin_Belot-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/martinbelot](https://www.linkedin.com/in/martin-belot-b9b126226/))
 [![Email](https://img.shields.io/badge/Email-martin.belot@centrale--marseille.fr-EA4335?style=flat&logo=gmail)](mailto:martin.belot@centrale-marseille.fr)
   
