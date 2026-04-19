@@ -22,6 +22,7 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 |---|---|---|
 | [Rates Models & Swaption Pricing](https://github.com/mb69-code/rates-models) | Hull-White, Black's model, Greeks | Python, QuantLib |
 | [ML in Finance : Portfolio Optimization](https://github.com/mb69-code/machine-learning-portfolio) | Regime detection, clustering, Sharpe | Scikit-learn |
+| [Inflation - IOTA Trading Strategy](https://github.com/mb69-code/inflation-trading) | Inflation, Break-Even, ZCIS, IOTA | Streamlit Dashboard |
 
 ---
 
@@ -41,6 +42,9 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 - Top 10% Mathematics · Top 5% Economics
 
 ---
+## Live Dashboards
+
+Inflation Trading Strategy : https://inflation-trading.streamlit.app
 
 ## Contact
 
