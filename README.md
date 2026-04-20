@@ -9,7 +9,7 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 ## Experiences
 
 - **Tradition Securities & Futures** — Inflation Sales/Trader Assistant *(Jan–Jun 2025)*  
-  Pricing ZC Swaps, YoY Swaps, Breakevens · Curve distortion analysis · VBA pricers
+  Pricing ZC Swaps, Spread and Forward Swaps, Breakevens · Curve distortion analysis · VBA pricers
 
 - **Euronext Paris** — Cash Equities Trading Analyst *(Jul–Dec 2024)*  
   Python revenue model for Market Maker fee schemes · Liquidity & microstructure analysis
