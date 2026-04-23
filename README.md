@@ -50,6 +50,6 @@ Inflation Trading Strategy : https://inflation-trading.streamlit.app
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Belot-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/martinbelot](https://www.linkedin.com/in/martin-belot-b9b126226/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Belot-0A66C2?style=flat&logo=linkedin)]((https://www.linkedin.com/in/martin-belot-b9b126226/))
 [![Email](https://img.shields.io/badge/Email-martin.belot@centrale--marseille.fr-EA4335?style=flat&logo=gmail)](mailto:martin.belot@centrale-marseille.fr)
   
