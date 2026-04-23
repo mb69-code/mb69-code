@@ -45,8 +45,8 @@ Looking for a 6-month end-of-studies internship in **trading, structuring, or qu
 ---
 ## Live Dashboards
 
-- SSA Repo Trading Monitor : repo-bonds-trading.streamlit.app
-- Inflation Trading Strategy : https://inflation-trading.streamlit.app
+- SSA Repo Trading Monitor: https://repo-bonds-trading.streamlit.app  
+- Inflation Trading Strategy: https://inflation-trading.streamlit.app
 
 ## Contact
 
